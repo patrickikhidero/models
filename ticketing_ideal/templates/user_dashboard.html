@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}User Dashboard{% endblock %}
+
+{% block content %}
+    <h1>Your Tickets</h1>
+    <a href="{{ url_for('tickets.submit_ticket') }}">Submit New Ticket</a>
+    <ul>
+        {% for ticket in tickets %}
+            <li>{{ ticket.title }} - {{ ticket.status }}</li>
+        {% else %}
+            <li>No tickets found.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

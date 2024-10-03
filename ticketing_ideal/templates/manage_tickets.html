@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Manage Ticket{% endblock %}
+
+{% block content %}
+    <h1>Manage Ticket: {{ ticket.title }}</h1>
+    <form method="POST">
+        <div>
+            <label for="status">Status:</label>
+            <select id="status" name="status">
+                <option value="Open" {% if ticket.status == 'Open' %}selected{% endif %}>Open</option>
+                <option value="In Progress" {% if ticket.status == 'In Progress' %}selected{% endif %}>In Progress</option>
+                <option value="Closed" {% if ticket.status == 'Closed' %}selected{% endif %}>Closed</option>
+            </select>
+        </div>
+        <button type="submit">Update Status</button>
+    </form>
+{% endblock %}

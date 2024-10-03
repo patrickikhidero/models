@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Admin Dashboard{% endblock %}
+
+{% block content %}
+    <h1>Manage Tickets</h1>
+    <ul>
+        {% for ticket in tickets %}
+            <li>
+                {{ ticket.title }} - {{ ticket.status }}
+                <a href="{{ url_for('admin.manage_ticket', ticket_id=ticket.id) }}">Manage</a>
+            </li>
+        {% else %}
+            <li>No tickets found.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
