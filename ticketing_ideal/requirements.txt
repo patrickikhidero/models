@@ -4,4 +4,4 @@ Flask-Login==0.6.3
 Flask-WTF==1.1.1
 WTForms==3.0.1
 email-validator==2.0.0
-Flask-Bcrypt==1.0.1  # Added Flask-Bcrypt
+Flask-Bcrypt==1.0.1  
