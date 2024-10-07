@@ -586,3 +586,125 @@
 2024-10-07 11:05:11,826 - server.tcp_server - ERROR - Server error: [Errno 53] Software caused connection abort
 2024-10-07 11:05:11,826 - server.tcp_server - INFO - Server stopped
 2024-10-07 11:05:11,827 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:33:24,273 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:33:24,273 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:33:24,273 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:33:24,285 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:33:24,285 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:33:24,286 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:33:24,286 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:33:24,286 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:33:24,286 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:33:24,286 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:33:24,286 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:33:26,046 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:33:26,046 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:33:27,553 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:27,553 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:27,553 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:29,157 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:29,157 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:29,157 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:29,157 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:29,479 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:33:29,479 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:33:29,479 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:33:29,479 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:33:30,792 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:30,792 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:30,792 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:30,792 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:30,792 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:33:31,142 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:33:31,142 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:33:31,142 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:33:31,142 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:33:31,142 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:47:59,168 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:47:59,168 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:47:59,168 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:47:59,179 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:47:59,179 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:47:59,180 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:47:59,180 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:47:59,180 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:47:59,180 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:47:59,180 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:47:59,180 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:48:00,464 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:48:00,464 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:48:01,757 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:01,757 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:01,757 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:03,093 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:03,093 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:03,093 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:03,093 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:03,414 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:48:03,414 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:48:03,414 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:48:03,414 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:48:04,839 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:04,839 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:04,839 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:04,839 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:04,839 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:48:05,168 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:48:05,168 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:48:05,168 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:48:05,168 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:48:05,168 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:48:20,145 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:48:27,464 - server.tcp_server - INFO - New connection from ('127.0.0.1', 55565)
+2024-10-07 11:48:27,466 - server.request_handler - INFO - Received data from ('127.0.0.1', 55565): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:27,467 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55565)
+2024-10-07 11:48:28,484 - server.tcp_server - INFO - New connection from ('127.0.0.1', 55571)
+2024-10-07 11:48:28,485 - server.request_handler - INFO - Received data from ('127.0.0.1', 55571): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:28,485 - server.request_handler - INFO - Received data from ('127.0.0.1', 55571): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:28,486 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55571)
+2024-10-07 11:48:28,486 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55571)
+2024-10-07 11:48:33,499 - server.tcp_server - INFO - New connection from ('127.0.0.1', 55601)
+2024-10-07 11:48:33,500 - server.request_handler - INFO - Received data from ('127.0.0.1', 55601): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:33,500 - server.request_handler - INFO - Received data from ('127.0.0.1', 55601): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:33,500 - server.request_handler - INFO - Received data from ('127.0.0.1', 55601): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:48:33,502 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55601)
+2024-10-07 11:48:33,502 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55601)
+2024-10-07 11:48:33,502 - server.request_handler - INFO - Sent response to ('127.0.0.1', 55601)
+2024-10-07 11:48:39,494 - __main__ - INFO - Shutting down...
+2024-10-07 11:48:39,494 - server.tcp_server - ERROR - Server error: [Errno 53] Software caused connection abort
+2024-10-07 11:48:39,494 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:48:39,494 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:49:32,847 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:49:32,847 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:49:32,847 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 11:49:32,856 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:49:32,856 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:49:32,857 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:49:32,857 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:49:32,859 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:49:32,859 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 11:49:32,860 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:49:32,860 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:49:34,242 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:49:34,242 - ssh.ssh_client - ERROR - Authentication failed for test.rebex.net
+2024-10-07 11:49:35,685 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:35,685 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:35,685 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:37,206 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:37,206 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:37,206 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:37,206 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:37,585 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:49:37,585 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:49:37,585 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:49:37,585 - ssh.ssh_client - WARNING - Command failed: invalid_command. Error: 
+2024-10-07 11:49:38,938 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:38,938 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:38,938 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:38,938 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:38,938 - ssh.ssh_client - INFO - Successfully connected to test.rebex.net
+2024-10-07 11:49:39,264 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:49:39,264 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:49:39,264 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:49:39,264 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!
+2024-10-07 11:49:39,264 - ssh.ssh_client - INFO - Command executed successfully: echo Hello, World!

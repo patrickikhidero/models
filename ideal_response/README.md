@@ -24,6 +24,7 @@
     └── security.py
 ```
 Here's the code for each of the files excluding the __init__.py since it's only to tell python it's a package structure
+This module centralizes the configuration for the application using environment variables, allowing for easy adjustments without modifying the code. It manages server settings, SSH credentials, network interfaces, and logging configurations, making it adaptable to different environments by simply changing environment variables.
 1. `config.py`
 ```python
 import os
@@ -50,6 +51,7 @@ class Config:
     # Security Configuration
     ENCRYPTION_KEY_FILE = os.getenv('ENCRYPTION_KEY_FILE', 'secret.key')
 ```
+The entry point of the application that orchestrates the starting of the TCP server, establishing SSH connections, and packet analysis. It employs threading to run the server concurrently while executing SSH commands and capturing packets, ensuring that the application remains responsive.
 2. `main.py`
 ```python
 import sys
@@ -101,6 +103,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+This module uses Scapy to capture and analyze network packets. It includes methods for filtering packets, analyzing specific protocols, and detecting port scans, providing critical insights into network activity. The logging of captured packets enhances traceability and debugging.
 3. `packet_analysis/packet_analyzer.py`
 ```python
 from scapy.all import sniff, IP, TCP, UDP
@@ -180,6 +183,7 @@ class PacketAnalyzer:
 
         return potential_scans
 ```
+This is the requirements file needed to install the Application
 3. `requirements.txt`
 ```plaintext
 paramiko==2.7.2
@@ -188,7 +192,7 @@ cryptography==3.4.7
 pytest==6.2.5
 ```
 4. `server/request_handler.py`
-
+This module handles incoming client requests in the TCP server. It uses a security manager to sanitize input and encrypt responses, emphasizing security best practices. The request processing logic can be customized further based on specific application needs.
 ```python
 import socket
 from utils.logger import Logger
@@ -227,6 +231,7 @@ class RequestHandler:
         # Implement your specific request handling here
         return f"Processed: {data}"
 ```
+This module implements a multi-threaded TCP server that handles multiple client connections simultaneously using a thread pool. It includes SSL support for secure connections, ensuring that sensitive data is transmitted securely over the network. Error handling mechanisms are in place to manage exceptions gracefully.
 5. `server/tcp_server.py`
 ```python
 import socket
@@ -290,6 +295,7 @@ class TCPServer:
         context.load_cert_chain(certfile="path/to/cert.pem", keyfile="path/to/key.pem")
         return context.wrap_socket(sock, server_side=True)
 ```
+This module encapsulates SSH functionality, providing methods to connect to remote servers, execute commands, and handle errors effectively. By utilizing logging, it provides insight into the SSH interactions, making it easier to troubleshoot issues related to remote connections.
 6. `ssh/ssh_client.py`
 ```python
 import paramiko
@@ -351,6 +357,7 @@ class SSHClient:
             self.client.close()
             self.logger.info(f"Closed connection to {self.hostname}")
 ```
+tests for packet analyzer
 7. `tests/test_packet_analyzer.py`
 ```python
 import unittest
@@ -401,6 +408,7 @@ class TestPacketAnalyzer(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+Test for the server
 8. `tests/test_server.py`
 ```python
 import unittest
@@ -460,10 +468,46 @@ class TestTCPServer(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+test for the ssh client
 9. `tests/test_ssh_client.py`
 ```python
-None
+import unittest
+import paramiko
+from ssh.ssh_client import SSHClient
+
+class TestSSHClient(unittest.TestCase):
+    def setUp(self):
+        # Initialize SSHClient with a public test server
+        self.ssh_client = SSHClient('test.rebex.net', 'demo', 'password')  # Using demo credentials
+
+    def test_connect_success(self):
+        try:
+            self.ssh_client.connect()
+            self.assertTrue(True)  # If it connects, the test passes
+        except paramiko.AuthenticationException:
+            self.fail("Authentication failed unexpectedly.")
+
+    def test_connect_auth_failure(self):
+        # Set incorrect credentials to trigger an authentication failure
+        self.ssh_client = SSHClient('test.rebex.net', 'demo', 'wrongpassword')
+        with self.assertRaises(paramiko.AuthenticationException):
+            self.ssh_client.connect()
+
+    def test_execute_command_success(self):
+        self.ssh_client.connect()
+        result = self.ssh_client.execute_command('echo Hello, World!')
+        self.assertEqual(result, 'Hello, World!')
+
+    def test_execute_command_failure(self):
+        self.ssh_client.connect()
+        result = self.ssh_client.execute_command('invalid_command')
+        self.assertIsNone(result)  # Expect None on failure
+
+if __name__ == '__main__':
+    unittest.main()
+
 ```
+This utility module implements a customizable logging framework that captures logs to both the console and a rotating file. This dual logging mechanism aids in monitoring application behavior and diagnosing issues, making it a vital component for production environments.
 10. `utils/logger.py`
 ```python
 import logging
@@ -498,6 +542,7 @@ class Logger:
     def debug(self, message):
         self.logger.debug(message)
 ```
+This module handles security aspects, including data encryption and password hashing. It ensures that sensitive information is stored securely and provides functions for input sanitization, highlighting the importance of security practices in application development.
 11. `utils/security.py`
 ```python
 import hashlib
@@ -541,4 +586,14 @@ class SecurityManager:
         # Implement input sanitization logic
         # This is a basic example, consider using more robust libraries like bleach
         return ''.join(char for char in input_string if char.isalnum() or char in (' ', '-', '_'))
+```
+
+**To Run**
+- main.py
+```bash
+python main.py
+```
+- tests
+```bash
+pytest tests
 ```
