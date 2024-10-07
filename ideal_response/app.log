@@ -1,0 +1,588 @@
+2024-10-07 09:33:08,464 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:33:20,751 - server.tcp_server - INFO - New connection from ('127.0.0.1', 52813)
+2024-10-07 09:33:20,752 - server.request_handler - INFO - Received data from ('127.0.0.1', 52813): GET  HTTP11Host localhost8000Connection keep-alivesec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:20,754 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52813)
+2024-10-07 09:33:21,872 - server.tcp_server - INFO - New connection from ('127.0.0.1', 52821)
+2024-10-07 09:33:21,873 - server.request_handler - INFO - Received data from ('127.0.0.1', 52821): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:21,873 - server.request_handler - INFO - Received data from ('127.0.0.1', 52821): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:21,873 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52821)
+2024-10-07 09:33:21,873 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52821)
+2024-10-07 09:33:26,883 - server.tcp_server - INFO - New connection from ('127.0.0.1', 52848)
+2024-10-07 09:33:26,884 - server.request_handler - INFO - Received data from ('127.0.0.1', 52848): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:26,884 - server.request_handler - INFO - Received data from ('127.0.0.1', 52848): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:26,884 - server.request_handler - INFO - Received data from ('127.0.0.1', 52848): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:26,886 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52848)
+2024-10-07 09:33:26,886 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52848)
+2024-10-07 09:33:26,886 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52848)
+2024-10-07 09:33:56,895 - server.tcp_server - INFO - New connection from ('127.0.0.1', 52984)
+2024-10-07 09:33:56,897 - server.request_handler - INFO - Received data from ('127.0.0.1', 52984): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:56,897 - server.request_handler - INFO - Received data from ('127.0.0.1', 52984): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:56,897 - server.request_handler - INFO - Received data from ('127.0.0.1', 52984): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:56,897 - server.request_handler - INFO - Received data from ('127.0.0.1', 52984): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 09:33:56,898 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52984)
+2024-10-07 09:33:56,898 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52984)
+2024-10-07 09:33:56,898 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52984)
+2024-10-07 09:33:56,898 - server.request_handler - INFO - Sent response to ('127.0.0.1', 52984)
+2024-10-07 09:34:23,502 - ssh.ssh_client - ERROR - Error connecting to example.com: [Errno 60] Operation timed out
+2024-10-07 09:34:23,503 - __main__ - ERROR - An error occurred: [Errno 60] Operation timed out
+2024-10-07 09:34:56,913 - server.tcp_server - INFO - New connection from ('127.0.0.1', 53275)
+2024-10-07 09:34:56,914 - server.tcp_server - ERROR - Server error: cannot schedule new futures after shutdown
+2024-10-07 09:34:56,916 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:36:03,228 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:36:03,228 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:36:03,242 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:36:03,242 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:36:03,346 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:36:03,346 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:36:03,347 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:36:03,347 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:36:03,347 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:36:03,347 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:36:03,348 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:36:03,348 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:36:03,632 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:36:03,632 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:36:03,668 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,668 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,668 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,671 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,671 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,671 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:36:03,671 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,012 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:38:30,012 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:38:30,027 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:38:30,027 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:38:30,121 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:38:30,121 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:38:30,122 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:38:30,122 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:38:30,123 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:38:30,123 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:38:30,123 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:38:30,123 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:38:30,175 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:38:30,205 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:38:30,205 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:38:30,234 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,234 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,234 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,236 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,236 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,236 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:38:30,236 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,077 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:53:36,077 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:53:36,078 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:53:36,078 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:53:36,079 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:53:36,079 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:53:36,079 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:53:36,079 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:53:36,131 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:53:36,169 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:53:36,169 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:53:36,198 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,198 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,198 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,201 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,201 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,201 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:53:36,201 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,251 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:54:51,251 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:54:51,267 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:54:51,267 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:54:51,363 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:54:51,363 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:54:51,364 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:54:51,364 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:54:51,364 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:54:51,364 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:54:51,364 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:54:51,364 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:54:51,414 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:54:51,449 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:54:51,449 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:54:51,478 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,478 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,478 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,481 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,481 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,481 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:54:51,481 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:32,857 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:58:32,857 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:58:32,872 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:58:32,872 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:58:32,970 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:58:32,970 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:58:32,971 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:32,971 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:32,971 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:58:32,971 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:58:32,971 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:32,971 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:33,023 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:33,052 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:33,052 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:33,085 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,085 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,085 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,089 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,089 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,089 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:33,089 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,552 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:58:51,552 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 09:58:51,567 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:58:51,567 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 09:58:51,670 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:58:51,670 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 09:58:51,672 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:51,672 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:51,672 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:58:51,672 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 09:58:51,673 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:51,673 - server.tcp_server - INFO - Server stopped
+2024-10-07 09:58:51,730 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:51,763 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:51,763 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 09:58:51,796 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,796 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,796 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,801 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,801 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,801 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 09:58:51,801 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,032 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 10:01:33,032 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 10:01:33,047 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 10:01:33,047 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 10:01:33,146 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:01:33,146 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:01:33,147 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:01:33,147 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:01:33,147 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:01:33,147 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:01:33,147 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:01:33,147 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:01:33,196 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:01:33,227 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:01:33,227 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:01:33,256 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,256 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,256 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,259 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,259 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,259 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:01:33,259 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,504 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 10:03:33,504 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface eth0
+2024-10-07 10:03:33,520 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 10:03:33,520 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Interface 'eth0' not found !
+2024-10-07 10:03:33,620 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:03:33,620 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:03:33,621 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:03:33,621 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:03:33,622 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:03:33,622 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:03:33,622 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:03:33,622 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:03:33,673 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:03:33,702 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:03:33,702 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:03:33,733 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,733 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,733 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,736 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,736 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,736 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:03:33,736 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,661 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:05:21,661 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:05:21,661 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)
+2024-10-07 10:05:21,661 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)
+2024-10-07 10:05:21,764 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:05:21,764 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:05:21,764 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:21,764 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:21,765 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:05:21,765 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:05:21,765 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:21,765 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:21,820 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:21,850 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:21,850 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:21,880 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,880 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,880 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,882 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,882 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,882 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:21,882 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,511 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:05:35,511 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:05:35,511 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)
+2024-10-07 10:05:35,511 - packet_analysis.packet_analyzer - ERROR - Error during packet capture: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)
+2024-10-07 10:05:35,605 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:05:35,605 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:05:35,607 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:35,607 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:35,607 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:05:35,607 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:05:35,607 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:35,607 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:05:35,656 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:35,684 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:35,684 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:05:35,717 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,717 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,717 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,720 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,720 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,720 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:05:35,720 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:10,304 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:08:10,304 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:08:12,534 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63446 -> 44.214.198.150:443
+2024-10-07 10:08:12,534 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63446 -> 44.214.198.150:443
+2024-10-07 10:08:12,854 - packet_analysis.packet_analyzer - INFO - TCP: 44.214.198.150:443 -> 192.168.0.147:63446
+2024-10-07 10:08:12,854 - packet_analysis.packet_analyzer - INFO - TCP: 44.214.198.150:443 -> 192.168.0.147:63446
+2024-10-07 10:08:12,949 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:08:12,949 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:08:12,949 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:08:12,949 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:08:12,950 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:08:12,950 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:08:12,950 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:08:12,950 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:08:13,001 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:08:13,030 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:08:13,030 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:08:13,060 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,060 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,060 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,063 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,063 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,063 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:08:13,063 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:32,392 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:09:32,392 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:09:32,703 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:62986 -> 140.82.121.4:443
+2024-10-07 10:09:32,703 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:62986 -> 140.82.121.4:443
+2024-10-07 10:09:32,844 - packet_analysis.packet_analyzer - INFO - TCP: 140.82.121.4:443 -> 192.168.0.147:62986
+2024-10-07 10:09:32,844 - packet_analysis.packet_analyzer - INFO - TCP: 140.82.121.4:443 -> 192.168.0.147:62986
+2024-10-07 10:09:32,942 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:09:32,942 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:09:32,943 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:09:32,943 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:09:32,943 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:09:32,943 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:09:32,943 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:09:32,943 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:09:32,994 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:09:33,025 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:09:33,025 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:09:33,061 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,061 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,061 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,065 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,065 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,065 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:09:33,065 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:47,809 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:11:47,809 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:11:49,030 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63666 -> 52.182.143.215:443
+2024-10-07 10:11:49,030 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63666 -> 52.182.143.215:443
+2024-10-07 10:11:49,324 - packet_analysis.packet_analyzer - INFO - TCP: 52.182.143.215:443 -> 192.168.0.147:63666
+2024-10-07 10:11:49,324 - packet_analysis.packet_analyzer - INFO - TCP: 52.182.143.215:443 -> 192.168.0.147:63666
+2024-10-07 10:11:49,418 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:11:49,418 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:11:49,419 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:11:49,419 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:11:49,420 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:11:49,420 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:11:49,420 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:11:49,420 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:11:49,470 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:11:49,501 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:11:49,501 - ssh.ssh_client - ERROR - Error connecting to test.example.com: [Errno 8] nodename nor servname provided, or not known
+2024-10-07 10:11:49,532 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,532 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,532 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,535 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,535 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,535 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:11:49,535 - ssh.ssh_client - ERROR - Not connected. Call connect() first.
+2024-10-07 10:16:29,116 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:16:29,116 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:16:29,756 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:16:29,756 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:16:29,938 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:16:29,938 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:16:30,037 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:16:30,037 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:16:30,038 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:16:30,038 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:16:30,039 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:16:30,039 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:16:30,039 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:16:30,039 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:18:24,780 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:18:24,780 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:18:26,143 - packet_analysis.packet_analyzer - INFO - TCP: 52.123.128.14:443 -> 192.168.0.147:64913
+2024-10-07 10:18:26,143 - packet_analysis.packet_analyzer - INFO - TCP: 52.123.128.14:443 -> 192.168.0.147:64913
+2024-10-07 10:18:26,645 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63428 -> 13.248.151.210:443
+2024-10-07 10:18:26,645 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63428 -> 13.248.151.210:443
+2024-10-07 10:18:26,740 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:18:26,740 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:18:26,741 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:18:26,741 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:18:26,741 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:18:26,741 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:18:26,741 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:18:26,741 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:20:18,395 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:20:18,395 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:20:18,471 - packet_analysis.packet_analyzer - INFO - TCP: 140.82.112.25:443 -> 192.168.0.147:64613
+2024-10-07 10:20:18,471 - packet_analysis.packet_analyzer - INFO - TCP: 140.82.112.25:443 -> 192.168.0.147:64613
+2024-10-07 10:20:18,472 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:64613 -> 140.82.112.25:443
+2024-10-07 10:20:18,472 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:64613 -> 140.82.112.25:443
+2024-10-07 10:20:18,618 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:20:18,618 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:20:18,619 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:20:18,619 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:20:18,619 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:20:18,619 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:20:18,619 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:20:18,619 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:23:25,178 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:23:25,178 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:23:25,254 - packet_analysis.packet_analyzer - INFO - TCP: 52.112.100.63:443 -> 192.168.0.147:63495
+2024-10-07 10:23:25,254 - packet_analysis.packet_analyzer - INFO - TCP: 52.112.100.63:443 -> 192.168.0.147:63495
+2024-10-07 10:23:25,256 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63495 -> 52.112.100.63:443
+2024-10-07 10:23:25,256 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63495 -> 52.112.100.63:443
+2024-10-07 10:23:25,348 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:23:25,348 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:23:25,349 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:23:25,349 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:23:25,349 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:23:25,349 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:23:25,350 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:23:25,350 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:26:56,351 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:26:56,351 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:26:59,743 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:26:59,743 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:26:59,936 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:26:59,936 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:26:59,991 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:26:59,991 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:26:59,992 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:26:59,992 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:26:59,993 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:26:59,993 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:26:59,993 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:26:59,993 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:27:59,540 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:27:59,540 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:27:59,741 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:27:59,741 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:63427 -> 13.244.174.183:443
+2024-10-07 10:27:59,906 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:27:59,906 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:27:59,914 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:27:59,914 - packet_analysis.packet_analyzer - INFO - TCP: 13.244.174.183:443 -> 192.168.0.147:63427
+2024-10-07 10:28:00,379 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:51481 -> 162.247.243.29:443
+2024-10-07 10:28:00,379 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:51481 -> 162.247.243.29:443
+2024-10-07 10:28:00,474 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:28:00,474 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:28:00,474 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:28:00,474 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:28:00,475 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:28:00,475 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:28:00,475 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:28:00,475 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:32,794 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:29:32,794 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:29:32,910 - packet_analysis.packet_analyzer - INFO - TCP: 52.168.112.66:443 -> 192.168.0.147:52255
+2024-10-07 10:29:32,910 - packet_analysis.packet_analyzer - INFO - TCP: 52.168.112.66:443 -> 192.168.0.147:52255
+2024-10-07 10:29:32,911 - packet_analysis.packet_analyzer - INFO - TCP: 52.168.112.66:443 -> 192.168.0.147:52255
+2024-10-07 10:29:32,911 - packet_analysis.packet_analyzer - INFO - TCP: 52.168.112.66:443 -> 192.168.0.147:52255
+2024-10-07 10:29:32,929 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:52260 -> 142.250.201.170:443
+2024-10-07 10:29:32,929 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:52260 -> 142.250.201.170:443
+2024-10-07 10:29:33,048 - packet_analysis.packet_analyzer - INFO - TCP: 142.250.201.170:443 -> 192.168.0.147:52260
+2024-10-07 10:29:33,048 - packet_analysis.packet_analyzer - INFO - TCP: 142.250.201.170:443 -> 192.168.0.147:52260
+2024-10-07 10:29:33,116 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:29:33,116 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:29:33,118 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:33,118 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:33,119 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:29:33,119 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:29:33,119 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:33,119 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:43,935 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:29:43,935 - packet_analysis.packet_analyzer - INFO - Starting packet capture on interface en0
+2024-10-07 10:29:45,428 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:51895 -> 142.250.102.84:443
+2024-10-07 10:29:45,428 - packet_analysis.packet_analyzer - INFO - TCP: 192.168.0.147:51895 -> 142.250.102.84:443
+2024-10-07 10:29:45,556 - packet_analysis.packet_analyzer - INFO - TCP: 142.250.102.84:443 -> 192.168.0.147:51895
+2024-10-07 10:29:45,556 - packet_analysis.packet_analyzer - INFO - TCP: 142.250.102.84:443 -> 192.168.0.147:51895
+2024-10-07 10:29:45,611 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:29:45,611 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:29:45,613 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:45,613 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:45,613 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:29:45,613 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:29:45,613 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:29:45,613 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:32,614 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:30:32,614 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:30:32,616 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:32,616 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:32,616 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:30:32,616 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:30:32,617 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:32,617 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:56,246 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:30:56,246 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:30:56,247 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:56,247 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:56,247 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:30:56,247 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:30:56,247 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:30:56,247 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:24,757 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:31:24,757 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:31:24,758 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:24,758 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:24,758 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:31:24,758 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:31:24,759 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:24,759 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:39,517 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:31:39,517 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:31:39,518 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:39,518 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:39,518 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:31:39,518 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:31:39,519 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:31:39,519 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:03,407 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:33:03,407 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:33:03,408 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:03,408 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:03,408 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:33:03,408 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:33:03,408 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:03,408 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:11,872 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:33:11,872 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:33:11,873 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:11,873 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:11,873 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:33:11,873 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:33:11,873 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:33:11,873 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:17,434 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:17,434 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:17,434 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:17,489 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:35:17,489 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:35:17,490 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:17,490 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:17,491 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:35:17,491 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:35:17,491 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:17,491 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:47,503 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:47,503 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:47,503 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:35:47,563 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:35:47,563 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:35:47,564 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:47,564 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:47,564 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:35:47,564 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:35:47,565 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:35:47,565 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:36:18,970 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:36:18,970 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:36:18,970 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:36:19,023 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:36:19,023 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:36:19,024 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:36:19,024 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:36:19,024 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:36:19,024 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:36:19,024 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:36:19,024 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:15,914 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:15,914 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:15,914 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:15,923 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:38:15,923 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:38:15,924 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:15,924 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:15,924 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:38:15,924 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:38:15,925 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:15,925 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:29,177 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:29,177 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:29,177 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:38:29,185 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:38:29,185 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:38:29,186 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:29,186 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:29,187 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:38:29,187 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:38:29,187 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:38:29,187 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:53:10,085 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:53:27,551 - server.tcp_server - INFO - New connection from ('127.0.0.1', 57921)
+2024-10-07 10:53:27,552 - server.request_handler - INFO - Received data from ('127.0.0.1', 57921): GET  HTTP11Host localhost8000Connection keep-alivesec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:27,554 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57921)
+2024-10-07 10:53:28,699 - server.tcp_server - INFO - New connection from ('127.0.0.1', 57930)
+2024-10-07 10:53:28,700 - server.request_handler - INFO - Received data from ('127.0.0.1', 57930): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:28,700 - server.request_handler - INFO - Received data from ('127.0.0.1', 57930): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:28,701 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57930)
+2024-10-07 10:53:28,701 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57930)
+2024-10-07 10:53:33,714 - server.tcp_server - INFO - New connection from ('127.0.0.1', 57954)
+2024-10-07 10:53:33,716 - server.request_handler - INFO - Received data from ('127.0.0.1', 57954): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:33,716 - server.request_handler - INFO - Received data from ('127.0.0.1', 57954): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:33,716 - server.request_handler - INFO - Received data from ('127.0.0.1', 57954): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site noneSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 10:53:33,717 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57954)
+2024-10-07 10:53:33,717 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57954)
+2024-10-07 10:53:33,717 - server.request_handler - INFO - Sent response to ('127.0.0.1', 57954)
+2024-10-07 10:54:25,228 - ssh.ssh_client - ERROR - Error connecting to example.com: [Errno 60] Operation timed out
+2024-10-07 10:54:25,228 - __main__ - ERROR - An error occurred: [Errno 60] Operation timed out
+2024-10-07 10:58:38,231 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:58:38,231 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:58:38,231 - packet_analysis.packet_analyzer - WARNING - Potential port scan detected from IPs: [('192.168.1.1', 14)]
+2024-10-07 10:58:38,243 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:58:38,243 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:58:38,244 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:58:38,244 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:58:38,244 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:58:38,244 - server.tcp_server - ERROR - Server error: cannot unpack non-iterable NoneType object
+2024-10-07 10:58:38,244 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:58:38,244 - server.tcp_server - INFO - Server stopped
+2024-10-07 10:58:44,170 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 10:59:59,174 - ssh.ssh_client - ERROR - Error connecting to example.com: [Errno 60] Operation timed out
+2024-10-07 10:59:59,175 - __main__ - ERROR - An error occurred: [Errno 60] Operation timed out
+2024-10-07 11:04:56,629 - server.tcp_server - INFO - New connection from ('127.0.0.1', 61225)
+2024-10-07 11:04:56,630 - server.tcp_server - ERROR - Server error: cannot schedule new futures after interpreter shutdown
+2024-10-07 11:04:56,630 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:05:04,829 - server.tcp_server - INFO - Server started on localhost:8000
+2024-10-07 11:05:07,625 - server.tcp_server - INFO - New connection from ('127.0.0.1', 61292)
+2024-10-07 11:05:07,627 - server.request_handler - INFO - Received data from ('127.0.0.1', 61292): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-User 1Sec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:05:07,628 - server.request_handler - INFO - Sent response to ('127.0.0.1', 61292)
+2024-10-07 11:05:08,647 - server.tcp_server - INFO - New connection from ('127.0.0.1', 61300)
+2024-10-07 11:05:08,648 - server.request_handler - INFO - Received data from ('127.0.0.1', 61300): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:05:08,648 - server.request_handler - INFO - Received data from ('127.0.0.1', 61300): GET  HTTP11Host localhost8000Connection keep-aliveCache-Control max-age0sec-ch-ua Chromiumv128 NotABrandv24 Google Chromev128sec-ch-ua-mobile 0sec-ch-ua-platform macOSUpgrade-Insecure-Requests 1User-Agent Mozilla50 Macintosh Intel Mac OS X 10_15_7 AppleWebKit53736 KHTML like Gecko Chrome128000 Safari53736Accept texthtmlapplicationxhtmlxmlapplicationxmlq09imageavifimagewebpimageapngq08applicationsigned-exchangevb3q07Sec-Fetch-Site cross-siteSec-Fetch-Mode navigateSec-Fetch-Dest documentAccept-Encoding gzip deflate br zstdAccept-Language en-USenq09
+2024-10-07 11:05:08,649 - server.request_handler - INFO - Sent response to ('127.0.0.1', 61300)
+2024-10-07 11:05:08,649 - server.request_handler - INFO - Sent response to ('127.0.0.1', 61300)
+2024-10-07 11:05:11,826 - __main__ - INFO - Shutting down...
+2024-10-07 11:05:11,826 - server.tcp_server - ERROR - Server error: [Errno 53] Software caused connection abort
+2024-10-07 11:05:11,826 - server.tcp_server - INFO - Server stopped
+2024-10-07 11:05:11,827 - server.tcp_server - INFO - Server stopped

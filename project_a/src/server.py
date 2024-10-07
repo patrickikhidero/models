@@ -43,5 +43,5 @@ class TCPServer:
                 client_socket.close()
 
 # Usage would typically be in a main or application startup script
-# server = TCPServer()
-# server.start()
+server = TCPServer()
+server.start()

@@ -1,0 +1,4 @@
+paramiko==2.7.2
+scapy
+cryptography==3.4.7
+pytest==6.2.5

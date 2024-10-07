@@ -1,0 +1,2 @@
+2024-10-03 18:10:23,468 - NetworkApp - ERROR - Could not SSH to hostname, error: [Errno 8] nodename nor servname provided, or not known
+2024-10-03 18:11:34,546 - NetworkApp - INFO - Server listening on 127.0.0.1:65432
