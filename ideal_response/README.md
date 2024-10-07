@@ -186,7 +186,7 @@ class PacketAnalyzer:
 This is the requirements file needed to install the Application
 3. `requirements.txt`
 ```plaintext
-paramiko==2.7.2
+paramiko
 scapy
 cryptography==3.4.7
 pytest==6.2.5
